@@ -46,7 +46,7 @@ Example Response Body:
 
 9. Write test cases for the endpoint
 
-### Scnario 2: Observe the image below
+### Scenario 2: Observe the image below
 
 ![cheerios](./cheerios.png)
 
