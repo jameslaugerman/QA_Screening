@@ -30,7 +30,7 @@
 
 Example Request Body:
 
-```json
+```js
 {
     numbers: [1,2,3,4,5]
 }
@@ -38,7 +38,7 @@ Example Request Body:
 
 Example Response Body:
 
-```json
+```js
 {
     number: 4
 }
