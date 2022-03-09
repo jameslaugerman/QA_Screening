@@ -2,6 +2,7 @@
 
 ## Create a new file called "Answers.md" for your answers to these questions
 
+Just complete to the best of your ability! Try not to overthink the latter sections and don't spend too long on it. If you don't know every answer, that's ok! Honest feedback is appreciated.
 
 ## SECTION 1 - APIs
 
